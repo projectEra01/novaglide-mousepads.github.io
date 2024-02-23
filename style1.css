@@ -1,10 +1,12 @@
 .title{
     text-align: center;
-    font-size: 80px;
+    font-size: 80px; 
+    
 }
 body{
-    background-image: url(code.avif);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(56, 56, 56);
+    color: white;
 
 }
 
@@ -29,22 +31,20 @@ button{
     margin-left: auto;
     margin-right: auto;
     border-radius: 40px;
-    
 }
 
-.pad1{
-    width: 420px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 40px;
+h2{
+    padding-left: 40px;
 }
 
-.pad2{
-    width: 420px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 40px;
-    box-shadow: 1px 12px 12px 12px rgba(0, 0, 0, 0.8);
+.h3{
+    text-align: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+}
+
+a{
+    color: rgb(128, 219, 255);
 }
