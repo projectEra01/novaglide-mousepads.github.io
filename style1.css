@@ -33,20 +33,29 @@ body{
 }
 
 .mouse{
-    width: 400px;
+    width: 380px;
     border: none;
     height: 200px;
     font-size: 21px;
+    padding-left: 5px;
     padding-bottom: 80px;
 }
 
 .b{
-    width: 430px;
+    width: 320px;
     border-radius: 11px;
 }
 a{
     color: rgb(145, 198, 220);    
 }
+
+.you{
+    text-align: center;
+}
+
+
+
+
 
 .down{
     position: fixed;
