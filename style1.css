@@ -1,6 +1,7 @@
 .title{
     text-align: center;
     font-size: 65px; 
+    color: rgb(60, 0, 0);
     
 }
 
@@ -8,18 +9,17 @@
 text-align: center;
     font-size: 38px;
     font-family: 'Times New Roman'; 
-    color:rgb(254, 192, 110);
+    color:rgb(239, 156, 48);
     
 }
 
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(67, 67, 67);
-    color: white;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 40px;
+    background-color: rgb(230, 230, 230);
 
 }
 
@@ -64,4 +64,11 @@ a{
     right: 0;
      background-color: rgb(25, 142, 25);
      text-align: center;
+}
+.top{
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    position: fixed;
 }
